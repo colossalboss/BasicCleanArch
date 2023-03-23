@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "rqaZYQ/OHIaAgh+3bAkrAh1OPgcgChJknhEFuq3k8ecl3vPkMB7MVroZaIUZEvc/wSX/cPeX/dTbVgipn773UQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gogbara\\Desktop\\code\\BasicCleanArch\\BasicCleanArch.Application\\BasicCleanArch.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gogbara\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\gogbara\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\gogbara\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\gogbara\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\gogbara\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\gogbara\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\gogbara\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

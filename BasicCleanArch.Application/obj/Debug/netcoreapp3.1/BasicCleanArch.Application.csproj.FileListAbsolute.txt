@@ -1,0 +1,13 @@
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Application\bin\Debug\netcoreapp3.1\BasicCleanArch.Application.deps.json
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Application\bin\Debug\netcoreapp3.1\BasicCleanArch.Application.dll
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Application\bin\Debug\netcoreapp3.1\BasicCleanArch.Application.pdb
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Application\bin\Debug\netcoreapp3.1\BasicCleanArch.Domain.dll
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Application\bin\Debug\netcoreapp3.1\BasicCleanArch.Domain.pdb
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Application\obj\Debug\netcoreapp3.1\BasicCleanArch.Application.csproj.AssemblyReference.cache
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Application\obj\Debug\netcoreapp3.1\BasicCleanArch.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Application\obj\Debug\netcoreapp3.1\BasicCleanArch.Application.AssemblyInfoInputs.cache
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Application\obj\Debug\netcoreapp3.1\BasicCleanArch.Application.AssemblyInfo.cs
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Application\obj\Debug\netcoreapp3.1\BasicCleanArch.Application.csproj.CoreCompileInputs.cache
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Application\obj\Debug\netcoreapp3.1\BasicCleanArch.Application.csproj.CopyComplete
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Application\obj\Debug\netcoreapp3.1\BasicCleanArch.Application.dll
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Application\obj\Debug\netcoreapp3.1\BasicCleanArch.Application.pdb

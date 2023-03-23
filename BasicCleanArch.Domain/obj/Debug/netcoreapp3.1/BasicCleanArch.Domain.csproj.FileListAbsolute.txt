@@ -1,0 +1,9 @@
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Domain\bin\Debug\netcoreapp3.1\BasicCleanArch.Domain.deps.json
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Domain\bin\Debug\netcoreapp3.1\BasicCleanArch.Domain.dll
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Domain\bin\Debug\netcoreapp3.1\BasicCleanArch.Domain.pdb
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Domain\obj\Debug\netcoreapp3.1\BasicCleanArch.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Domain\obj\Debug\netcoreapp3.1\BasicCleanArch.Domain.AssemblyInfoInputs.cache
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Domain\obj\Debug\netcoreapp3.1\BasicCleanArch.Domain.AssemblyInfo.cs
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Domain\obj\Debug\netcoreapp3.1\BasicCleanArch.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Domain\obj\Debug\netcoreapp3.1\BasicCleanArch.Domain.dll
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Domain\obj\Debug\netcoreapp3.1\BasicCleanArch.Domain.pdb

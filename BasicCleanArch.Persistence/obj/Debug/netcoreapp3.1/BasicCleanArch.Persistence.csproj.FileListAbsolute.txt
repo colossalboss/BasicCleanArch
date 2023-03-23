@@ -1,0 +1,15 @@
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Persistence\bin\Debug\netcoreapp3.1\BasicCleanArch.Persistence.deps.json
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Persistence\bin\Debug\netcoreapp3.1\BasicCleanArch.Persistence.dll
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Persistence\bin\Debug\netcoreapp3.1\BasicCleanArch.Persistence.pdb
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Persistence\bin\Debug\netcoreapp3.1\BasicCleanArch.Application.dll
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Persistence\bin\Debug\netcoreapp3.1\BasicCleanArch.Domain.dll
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Persistence\bin\Debug\netcoreapp3.1\BasicCleanArch.Application.pdb
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Persistence\bin\Debug\netcoreapp3.1\BasicCleanArch.Domain.pdb
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Persistence\obj\Debug\netcoreapp3.1\BasicCleanArch.Persistence.csproj.AssemblyReference.cache
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Persistence\obj\Debug\netcoreapp3.1\BasicCleanArch.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Persistence\obj\Debug\netcoreapp3.1\BasicCleanArch.Persistence.AssemblyInfoInputs.cache
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Persistence\obj\Debug\netcoreapp3.1\BasicCleanArch.Persistence.AssemblyInfo.cs
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Persistence\obj\Debug\netcoreapp3.1\BasicCleanArch.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Persistence\obj\Debug\netcoreapp3.1\BasicCleanArch.Persistence.csproj.CopyComplete
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Persistence\obj\Debug\netcoreapp3.1\BasicCleanArch.Persistence.dll
+C:\Users\gogbara\Desktop\code\BasicCleanArch\BasicCleanArch.Persistence\obj\Debug\netcoreapp3.1\BasicCleanArch.Persistence.pdb
